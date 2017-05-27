@@ -34,7 +34,7 @@ Information on the technical details of the experiments and measurements, as wel
 
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
-## Explicit list of columns for columns:
+## Explicit list of column variables:
 1  Subject  
 2  Activity  
 3  tMean_Bod_Acc_X  

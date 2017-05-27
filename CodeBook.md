@@ -1,10 +1,11 @@
 # tidy_data.txt Code Book
 
 ## Description
-tidy_data.txt is a transformation of the original UCI HAR Dataset. Only the explicit mean and sd data was used. It was then sorted by
-Subject and then Activity. The data in the set represent the averages for Subject and Activity of the original data. The data are described as follows:
+tidy_data.txt is a transformation of the original UCI HAR Dataset. Only the explicit mean and sd data was used. It was then sorted and averaged by Subject and Activity so that the data in the set represent the averages for Subject and Activity of the original mean and sd data. The data are described as follows:
 
 ### The first two columns are Subject Number and Activity Type, respectively.
+
+## Variable Data (Columns 3 through 66)
 
 ### The first letter of each name:
 
@@ -14,7 +15,7 @@ Subject and then Activity. The data in the set represent the averages for Subjec
 ### The first word:
 
 * Mean: Mean of measurement
-* SD: Standard deviation of Measurement
+* SD: Standard deviation of measurement
 
 ### The second word:
 

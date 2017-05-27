@@ -21,7 +21,7 @@ tidy_data.txt is a transformation of the original UCI HAR Dataset of activity me
 
 * Body: Pertaining to the body
 * Gravity: Pertaining to gravity
-* Sometimes followed by jerk, which is a sudden movement as opposed to a sustained movement, and/or Mag, which indicates that the measurement is a maginitude.
+* Sometimes followed by jerk, which is a jerk signal derived from linear acceleration and angular velocity, and/or Mag, which indicates that the measurement is a maginitude based on all three dimensional measurements.
 
 ### The third word:
 

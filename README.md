@@ -20,3 +20,9 @@ plyr
 * The new, tidy, data frame is then saved as a table and the data is removed from the workspace.
 
 * The frame can be read back in easily, data <- read.table("tidy_avg.txt")
+
+## A link to the data (as well as additional information) can be found here:
+https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+
+## A link to the original data and experiment can be found here:
+http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones

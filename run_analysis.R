@@ -94,7 +94,7 @@ data$Subject <- as.numeric(as.character(data$Subject))
 data <- arrange(data, Subject)
 
 # Write data to file
-write.table(data, file = "tidy_avg.txt")
+write.table(data, file = "tidy_avg.txt", row.names = FALSE)
 
 # Remove data from workspace
 rm(data)
